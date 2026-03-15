@@ -1,0 +1,10 @@
+{
+"protocol": "Intent Provenance Protocol",
+"version": "0.1",
+"draft_id": "draft-haberkamp-ipp-00",
+"author_name": "Amanda Haberkamp",
+"author_org": "KH Sovereign, Inc.",
+"ceremony_date": "2026-03-15",
+"spec_url": "https://ipp.khsovereign.com/spec/v0.1",
+"statement": "I, Amanda Haberkamp, hereby establish this Genesis Seal as the permanent cryptographic origin record of the Intent Provenance Protocol. Every Intent Token produced under this protocol carries this seal, permanently attributing authorship to Amanda Haberkamp and KH Sovereign, Inc."
+}
